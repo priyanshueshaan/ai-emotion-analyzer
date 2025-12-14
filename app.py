@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
-API = "http://127.0.0.1:8000"
+API = "https://eshaanash-ai-emotion-backend.hf.space"
 st.set_page_config(page_title="AI Emotion Analyzer", page_icon="🧠")
 st.title("🧠 AI Emotion Analyzer (Full Stack)")
 # ---------------- AUTH ----------------
