@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+torch
+python-jose
+passlib
+bcrypt==3.2.2
+sqlite-utils
