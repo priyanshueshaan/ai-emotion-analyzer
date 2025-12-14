@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+streamlit
+requests
+pandas
+matplotlib
+python-jose
+passlib
+bcrypt==3.2.2
